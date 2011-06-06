@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="languages">
+<item>Afrikaans	af</item>
+<item>Albanian	sq</item>
+<item>Arabic	ar</item>
+<item>Belarusian	be</item>
+<item>Bulgarian	bg</item>
+<item>Catalan	ca</item>
+<item>Chinese Simplified	zh-CN</item>
+<item>Chinese Traditional	zh-TW</item>
+<item>Croatian	hr</item>
+<item>Czech	cs</item>
+<item>Danish	da</item>
+<item>Dutch	nl</item>
+<item>English	en</item>
+<item>Estonian	et</item>
+<item>Filipino	tl</item>
+<item>Finnish	fi</item>
+<item>French	fr</item>
+<item>Galician	gl</item>
+<item>German	de</item>
+<item>Greek	el</item>
+<item>Haitian Creole	ht</item>
+<item>Hebrew	iw</item>
+<item>Hindi	hi</item>
+<item>Hungarian	hu</item>
+<item>Icelandic	is</item>
+<item>Indonesian	id</item>
+<item>Irish	ga</item>
+<item>Italian	it</item>
+<item>Japanese	ja</item>
+<item>Latvian	lv</item>
+<item>Lithuanian	lt</item>
+<item>Macedonian	mk</item>
+<item>Malay	ms</item>
+<item>Maltese	mt</item>
+<item>Norwegian	no</item>
+<item>Persian	fa</item>
+<item>Polish	pl</item>
+<item>Portuguese	pt</item>
+<item>Romanian	ro</item>
+<item>Russian	ru</item>
+<item>Serbian	sr</item>
+<item>Slovak	sk</item>
+<item>Slovenian	sl</item>
+<item>Spanish	es</item>
+<item>Swahili	sw</item>
+<item>Swedish	sv</item>
+<item>Thai	th</item>
+<item>Turkish	tr</item>
+<item>Ukrainian	uk</item>
+<item>Vietnamese	vi</item>
+<item>Welsh	cy</item>
+<item>Yiddish	yi</item>
+</string-array>
+</resources>
