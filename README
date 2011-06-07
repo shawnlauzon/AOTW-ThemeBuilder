@@ -1,0 +1,9 @@
+This is an extremely early version of what will eventually be a tool for building themes for a language learning game that @broccolini and I are working on. 
+
+Each theme is basically a multi-language visual dictionary, where each picture matches one or more words in a different language. These image-word mappings are used in the game (preliminarily titled All of the Words) to quiz the user on vocabulary; the use of pictures without translations helps the user memorize the meanings, not just the translations. Each word also contains a audio file with the word spoken.
+
+Anyway, how does one acquire pictures and spoken words? Well, that's where the ThemeBuilder comes in. You provide the list of words in any language, and the tool 1) Finds properly licensed matching pictures on Flickr, 2) Finds properly matched audio on Shtooka 3) Builds a theme from the pictures and the audio you like the best.
+
+However, it's all at a very early stage for the moment: it finds a set of Flickr pictures and allows you to like them, and it stores the data in a database. Oh, and it only uses the provided animals_en.txt file for a list of words. In other words, it's not very useful at the moment.
+
+However, I'm working on this a lot at the moment, and it should improve rather quickly. 
