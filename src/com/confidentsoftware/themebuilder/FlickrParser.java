@@ -38,6 +38,9 @@ public class FlickrParser {
 	private static final String BASE_URL = "http://api.flickr.com/services/rest/?format=json&api_key="
 			+ ApiKeys.FLICKR;
 
+	private static final String BASE_URL = "http://api.flickr.com/services/rest/?format=json&api_key="
+			+ FLICKR_KEY;
+
 	private static final String PHOTO_URL = "url_m";
 	private static final String PHOTO_HEIGHT = "height_m";
 	private static final String PHOTO_WIDTH = "width_m";
